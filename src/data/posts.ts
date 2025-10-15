@@ -18,11 +18,11 @@ export const posts: Post[] = [
   {
     "id": "1",
     "username": "beautyeva.ai",
-    "userImage": "https://i.ibb.co/xSr0Zrmr/9.jpg",
+    "userImage": "https://images.pexels.com/photos/34308832/pexels-photo-34308832.jpeg",
     "location": "Paris, France",
     "media": {
       "type": "image",
-      "url": "https://i.ibb.co/pvWV3MjX/1.jpg"
+      "url": "https://images.pexels.com/photos/34308830/pexels-photo-34308830.jpeg"
     },
     "caption": "This body deserves soft light and softer words.",
     "likes": 10343,
@@ -43,11 +43,11 @@ export const posts: Post[] = [
   {
     "id": "2",
     "username": "beautyeva.ai",
-    "userImage": "https://i.ibb.co/xSr0Zrmr/9.jpg",
+    "userImage": "https://images.pexels.com/photos/34308832/pexels-photo-34308832.jpeg",
     "location": "Paris, France",
     "media": {
       "type": "image",
-      "url": "https://i.ibb.co/Jjw4JDwm/2.jpg"
+      "url": "https://images.pexels.com/photos/34308827/pexels-photo-34308827.jpeg"
     },
     "caption": "I don’t chase beauty. I carry it.",
     "likes": 10020,
@@ -68,7 +68,7 @@ export const posts: Post[] = [
   {
     "id": "3",
     "username": "beautyeva.ai",
-    "userImage": "https://i.ibb.co/xSr0Zrmr/9.jpg",
+    "userImage": "https://images.pexels.com/photos/34308832/pexels-photo-34308832.jpeg",
     "location": "Tuscany, Italy",
     "media": {
       "type": "video",
@@ -93,11 +93,11 @@ export const posts: Post[] = [
   {
     "id": "4",
     "username": "beautyeva.ai",
-    "userImage": "https://i.ibb.co/xSr0Zrmr/9.jpg",
+    "userImage": "https://images.pexels.com/photos/34308832/pexels-photo-34308832.jpeg",
     "location": "Los Angeles, CA",
     "media": {
       "type": "image",
-      "url": "https://i.ibb.co/6Rwkbp1c/4.jpg"
+      "url": "https://images.pexels.com/photos/34308828/pexels-photo-34308828.jpeg"
     },
     "caption": "Comfort in your own skin is elegance.",
     "likes": 11248,
@@ -118,11 +118,11 @@ export const posts: Post[] = [
   {
     "id": "5",
     "username": "beautyeva.ai",
-    "userImage": "https://i.ibb.co/xSr0Zrmr/9.jpg",
+    "userImage": "https://images.pexels.com/photos/34308832/pexels-photo-34308832.jpeg",
     "location": "Barcelona, Spain",
     "media": {
       "type": "image",
-      "url": "https://i.ibb.co/Xx9pbt0Z/5.jpg"
+      "url": "https://images.pexels.com/photos/34308834/pexels-photo-34308834.jpeg"
     },
     "caption": "My body is art, not a project.",
     "likes": 10877,
@@ -143,11 +143,11 @@ export const posts: Post[] = [
   {
     "id": "6",
     "username": "beautyeva.ai",
-    "userImage": "https://i.ibb.co/xSr0Zrmr/9.jpg",
+    "userImage": "https://images.pexels.com/photos/34308832/pexels-photo-34308832.jpeg",
     "location": "Amsterdam, Netherlands",
     "media": {
       "type": "image",
-      "url": "https://i.ibb.co/jPPz0g2Q/6.jpg"
+      "url": "https://images.pexels.com/photos/34308829/pexels-photo-34308829.jpeg"
     },
     "caption": "This body walks with joy, not apology.",
     "likes": 10594,
@@ -168,11 +168,11 @@ export const posts: Post[] = [
   {
     "id": "7",
     "username": "beautyeva.ai",
-    "userImage": "https://i.ibb.co/xSr0Zrmr/9.jpg",
+    "userImage": "https://images.pexels.com/photos/34308832/pexels-photo-34308832.jpeg",
     "location": "Berlin, Germany",
     "media": {
       "type": "image",
-      "url": "https://i.ibb.co/gM2ZdQff/7.jpg"
+      "url": "https://images.pexels.com/photos/34308833/pexels-photo-34308833.jpeg"
     },
     "caption": "Strong isn’t a look—it’s a lifestyle.",
     "likes": 9962,
@@ -193,11 +193,11 @@ export const posts: Post[] = [
   {
     "id": "8",
     "username": "beautyeva.ai",
-    "userImage": "https://i.ibb.co/xSr0Zrmr/9.jpg",
+    "userImage": "https://images.pexels.com/photos/34308832/pexels-photo-34308832.jpeg",
     "location": "Lake Como, Italy",
     "media": {
       "type": "image",
-      "url": "https://i.ibb.co/j9tZV0PK/8.jpg"
+      "url": "https://images.pexels.com/photos/34308835/pexels-photo-34308835.jpeg"
     },
     "caption": "The sun loves every inch of me.",
     "likes": 12031,
@@ -218,11 +218,11 @@ export const posts: Post[] = [
   {
     "id": "9",
     "username": "beautyeva.ai",
-    "userImage": "https://i.ibb.co/xSr0Zrmr/9.jpg",
+    "userImage": "https://images.pexels.com/photos/34308832/pexels-photo-34308832.jpeg",
     "location": "Malibu Beach, CA",
     "media": {
       "type": "image",
-      "url": "https://i.ibb.co/xSr0Zrmr/9.jpg"
+      "url": "https://images.pexels.com/photos/34308832/pexels-photo-34308832.jpeg"
     },
     "caption": "Rest is not laziness. It’s self-respect.",
     "likes": 12783,
